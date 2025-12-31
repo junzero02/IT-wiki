@@ -1,1 +1,23 @@
+site_name: IT 정보 위키
+site_description: IT 관련 다양한 정보를 정리한 정보 위키
 
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.instant      # 페이지 전환 빠르게
+    - navigation.top          # 상단으로 이동 버튼
+
+nav:
+  - 대문: index.md
+  - 게임:
+      - 개요: games/index.md
+      - 로블록스:
+          - 개요: games/roblox/index.md
+          - 기본 문서:
+              - 로블록스는 어떻게 작동하는가: games/roblox/basics/how-roblox-works.md
+          - 문제 해결:
+              - 로블록스 실행 안 될 때: games/roblox/problems/cant-launch.md
+
+extra:
+  generator: false            # "Made with MkDocs" 문구 숨김
