@@ -1,5 +1,6 @@
 site_name: IT 정보 위키
 site_description: IT 관련 다양한 정보를 정리한 정보 위키
+site_url: https://it-wiki.pages.dev
 
 theme:
   name: material
