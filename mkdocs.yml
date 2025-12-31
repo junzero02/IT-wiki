@@ -21,3 +21,8 @@ nav:
 
 extra:
   generator: false            # "Made with MkDocs" 문구 숨김
+plugins:
+  - search
+  - sitemap:
+      changefreq: weekly
+      priority: 0.5
