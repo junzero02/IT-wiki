@@ -10,7 +10,7 @@
 - [네트워크](network/index.md)
 - [데이터](data/index.md)
 - [보안](security/index.md)
-- [작성 가이드](guide/writing-guide.md)
+- [작성 가이드](writing-guide/general-guide.md)
 
 ## 이용 안내
 - 본 위키의 문서는 기본적인 설명과 문제 해결 방법을 중심으로 작성됩니다.
