@@ -26,12 +26,13 @@ nav:
           - 드라이버: software/system/drivers.md
           - 유틸리티: software/system/utilities.md
       - 응용 프로그램:
-          - 게임: software/apps/games/index.md
-              - 로블록스: software/apps/games/roblox/index.md
+          - 게임:
+              - 로블록스:
                   - 로블록스 기본 문서: software/apps/games/roblox/basics/how-roblox-works.md
                   - 로블록스 문제 해결: software/apps/games/roblox/problems/cant-launch.md
+              - 일반 게임: software/apps/games/general/index.md
           - 일반 앱: software/apps/general/index.md
-      - 개발: software/development/index.md
+      - 개발:
           - 프로그래밍 언어: software/development/languages.md
           - IDE 및 도구: software/development/tools.md
           - 버전 관리: software/development/version-control.md
