@@ -11,4 +11,4 @@
 - [개발](development/index.md)
 
 ## 상위 문서로 돌아가기
-- [대문](../../index.md)
+- [대문](../index.md)
