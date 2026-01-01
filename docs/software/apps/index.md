@@ -6,7 +6,7 @@
 
 ## 하위 문서
 - [게임](games/index.md)
-- [일반 앱](general/index.md)
+- [일반 프로그램](general/index.md)
 
 ## 상위 문서로 돌아가기
 - [소프트웨어](../index.md)
