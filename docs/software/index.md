@@ -7,7 +7,7 @@
 ## 하위 문서
 - [운영체제](os/index.md)
 - [시스템 소프트웨어](system/index.md)
-- [응용 프로그램](apps/index.md)
+- [프로그램](programs/index.md)
 - [개발](development/index.md)
 
 ## 상위 문서로 돌아가기
