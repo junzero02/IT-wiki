@@ -1,26 +1,48 @@
 site_name: IT 정보 위키
 site_description: IT 관련 다양한 정보를 정리한 정보 위키
-site_url: https://it-wiki.pages.dev
 
 theme:
   name: material
   language: ko
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
   features:
-    - navigation.instant      # 페이지 전환 빠르게
-    - navigation.top          # 상단으로 이동 버튼
+    - navigation.tabs
+    - navigation.instant
+    - search.highlight
+    - search.suggest
+  favicon: images/favicon.ico
 
 nav:
   - 대문: index.md
-  - 게임:
-      - 개요: games/index.md
-      - 로블록스:
-          - 개요: games/roblox/index.md
-          - 기본 문서:
-              - 로블록스는 어떻게 작동하는가: games/roblox/basics/how-roblox-works.md
-          - 문제 해결:
-              - 로블록스 실행 안 될 때: games/roblox/problems/cant-launch.md
+  - 소프트웨어:
+      - 개요: software/index.md
+      - 운영체제:
+          - Windows: software/os/windows/index.md
+          - macOS: software/os/macos/index.md
+          - Linux: software/os/linux/index.md
+      - 시스템 소프트웨어:
+          - 드라이버: software/system/drivers.md
+          - 유틸리티: software/system/utilities.md
+      - 응용 프로그램:
+          - 게임: software/apps/games/index.md
+              - 로블록스: software/apps/games/roblox/index.md
+                  - 로블록스 기본 문서: software/apps/games/roblox/basics/how-roblox-works.md
+                  - 로블록스 문제 해결: software/apps/games/roblox/problems/cant-launch.md
+          - 일반 앱: software/apps/general/index.md
+      - 개발: software/development/index.md
+          - 프로그래밍 언어: software/development/languages.md
+          - IDE 및 도구: software/development/tools.md
+          - 버전 관리: software/development/version-control.md
+  - 네트워크: network/index.md
+  - 데이터: data/index.md
+  - 보안: security/index.md
+  - 가이드:
+      - 작성 가이드: guide/writing-guide.md
 
 extra:
-  generator: false            # "Made with MkDocs" 문구 숨김
+  - generator: false
+
 plugins:
   - search
