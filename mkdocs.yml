@@ -23,6 +23,7 @@ nav:
           - macOS: software/os/macos/index.md
           - Linux: software/os/linux/index.md
       - 시스템 소프트웨어:
+          - 개요: software/system/index.md
           - 드라이버: software/system/drivers.md
           - 유틸리티: software/system/utilities.md
       - 응용 프로그램:
