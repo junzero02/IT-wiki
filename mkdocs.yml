@@ -34,9 +34,9 @@ nav:
               - 일반 게임: software/apps/games/general/index.md
           - 일반 앱: software/apps/general/index.md
       - 개발:
-          - 프로그래밍 언어: software/development/languages.md
-          - IDE 및 도구: software/development/tools.md
-          - 버전 관리: software/development/version-control.md
+          - 프로그래밍 언어: software/development/languages/index.md
+          - IDE 및 도구: : software/development/tools/index.md
+          - 버전 관리: software/development/version-control/index.md
   - 네트워크: network/index.md
   - 데이터: data/index.md
   - 보안: security/index.md
