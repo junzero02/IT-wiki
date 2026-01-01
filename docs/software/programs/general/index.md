@@ -8,7 +8,7 @@
 
 ## 하위 문서
 - [일반 프로그램 목록](list/index.md)
-- [실행 파일](executable-file/index.md)
+- [응용 프로그램](apps/index.md)
 
 ## 상위 문서로 돌아가기
-- [응용 프로그램](../index.md)
+- [프로그램](../index.md)
