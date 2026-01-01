@@ -32,7 +32,7 @@ nav:
                   - 로블록스 기본 문서: software/apps/games/roblox/basics/how-roblox-works.md
                   - 로블록스 문제 해결: software/apps/games/roblox/problems/cant-launch.md
               - 일반 게임: software/apps/games/general/index.md
-          - 일반 앱: software/apps/general/index.md
+          - 일반 프로그램: software/apps/general/index.md
       - 개발:
           - 프로그래밍 언어: software/development/languages/index.md
           - IDE 및 도구: software/development/tools/index.md
@@ -42,6 +42,7 @@ nav:
   - 보안: security/index.md
   - 작성 가이드:
       - 일반 가이드: writing-guide/general-guide.md
+      - 공통 템플릿: writing-guide/common-template.md
 
 extra:
   generator: false
