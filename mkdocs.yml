@@ -42,7 +42,7 @@ nav:
       - 작성 가이드: guide/writing-guide.md
 
 extra:
-  - generator: false
+  generator: false
 
 plugins:
   - search
