@@ -23,10 +23,10 @@
 
 * 카테고리 최상위 문서
 
-  * 예: `software/index.md`, `network/index.md`
+  * 예: `소프트웨어/개요`, `네트워크/개요`
 * 중간 분류(허브) 문서
 
-  * 예: `software/apps/index.md`, `software/development/index.md`
+  * 예: `소프트웨어/응용 프로그램/개요`, `소프트웨어/개발/개요`
 * 여러 하위 문서를 묶는 개념 정리 문서
 
 다음 유형의 문서에는 사용을 권장하지 않습니다.
