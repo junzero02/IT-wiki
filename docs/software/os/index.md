@@ -5,9 +5,9 @@
 운영체제는 컴퓨터 하드웨어와 소프트웨어를 관리하고 사용자와 컴퓨터를 연결하는 역할을 한다.
 
 ## 하위 문서
-- [Windows](windows.md)
-- [macOS](macos.md)
-- [Linux](linux.md)
+- [Windows](windows/index.md)
+- [macOS](macos/index.md)
+- [Linux](linux/index.md)
 
 ## 상위 문서로 돌아가기
 - [소프트웨어](../index.md)
