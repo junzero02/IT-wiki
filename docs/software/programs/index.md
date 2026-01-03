@@ -9,8 +9,7 @@
 
 ## 하위 문서
 - [게임](games/index.md)
-- [일반 프로그램](general/index.md)
-- [프로그램 목록](list/index.md)
+- [생산성 프로그램](productivity/index.md)
 
 ## 상위 문서로 돌아가기
 - [소프트웨어](../index.md)
