@@ -53,6 +53,9 @@ nav:
           - 개요: data/database/index.md
           - MySQL: data/database/mysql.md
 
+  - 보안:
+      - 개요: security/index.md
+
   - 용어:
       - 개요: terminology/index.md
 
